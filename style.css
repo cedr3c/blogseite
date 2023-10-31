@@ -1,0 +1,106 @@
+.bar {
+    background-color: #DB9767;
+}
+
+.text {
+    color: white !important;
+}
+
+.title {
+    color: white !important;
+}
+
+.active {
+    background-color: #DBBA67 !important;
+    color: white !important;
+}
+
+.container-fluid {
+    border-color: none;
+    text-decoration: none;
+}
+
+
+
+body {
+    background-color: #DB7169;
+}
+
+
+.text1 {
+    color: black !important;
+}
+
+.click:active {
+    background-color: #DBBA67;
+}
+
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover {
+    background-color: #DBBA67;
+}
+
+.tw {
+    color: white;
+}
+
+.tb {
+    color: black;
+}
+
+.txt {
+    font-size: 200%;
+}
+
+h1.txt {
+    font-size: 500%;
+}
+
+.zentral  {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
+
+  .AMT {
+    text-align: center;
+    font-size: 500%;
+    color: white;
+  }
+
+  p.AMT {
+    font-size: 200%;
+  }
+
+  .AMTT {
+    font-size: 200%;
+    color: white;
+  }
+
+  .moodboard {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+  }
+
+  .code {
+    margin-left: 10%;
+    margin-top: 3%;
+    color: rgb(0, 255, 0);
+    width: 80%;
+    font-size: 300%;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+    font-family: 'Source Code Pro', monospace;
+  }
+
+
+button {
+    background-color: black;
+    box-shadow: none;
+    border: none;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+    font-family: 'Source Code Pro', monospace;
+    }
